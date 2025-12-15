@@ -54,4 +54,4 @@ Agent Configuration: The Agent assumes the role of a monetary policy corresponda
 - No answer until API key: the app blocks execution until a key is entered in the sidebar.
 
 
-Streamlit Deployment: [link]
+Streamlit Deployment: [https://mdsc30801-fletes.streamlit.app]
